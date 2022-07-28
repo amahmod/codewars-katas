@@ -1,5 +1,11 @@
 # Codewars Katas Solution
 
+<div align="center">
+
+![Codewars Badge](https://www.codewars.com/users/amahmod/badges/large)
+
+</div>
+
 ### Javascript
 
 | Kyu | Name                                                                                                     | Kata Link                                                    |
