@@ -21,3 +21,4 @@
 | 8   | [Sum Arrays](javascript/8_kyu_sum_arrays.js)                                                             | [→](https://www.codewars.com/kata/555086d53eac039a2a000083)  |
 | 8   | [Opposites Attract](javascript/8_kyu_opposites_attract.js)                                               | [→](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)  |
 | 8   | [Total amount of points](javascript/8_kyu_total_amount_of_points.js)                                     | [→](https://www.codewars.com/kata/5bb904724c47249b10000131)  |
+| 8   | [Rock paper scissors](javascript/8_kyu_rock_paper_scissors.js)                                           | [→](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)  |
