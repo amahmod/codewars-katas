@@ -41,4 +41,4 @@ function isPangram(string) {
 //   return (string.match(/([a-z])(?!.*\1)/gi) || []).length === 26
 // }
 
-export default isPangram
+module.exports = isPangram

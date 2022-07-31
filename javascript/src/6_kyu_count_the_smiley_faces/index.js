@@ -59,4 +59,4 @@ function countSmileys(arr) {
 
 // countSmileys = ss => ss.reduce((a, s) => a + /^[:;][-~]?[D)]$/.test(s), 0)
 
-export default countSmileys
+module.exports = countSmileys

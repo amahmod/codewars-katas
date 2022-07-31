@@ -38,4 +38,4 @@ function sum(numbers) {
   return numbers.reduce((resultSum, number) => resultSum + number, 0)
 }
 
-export default sum
+module.exports = sum

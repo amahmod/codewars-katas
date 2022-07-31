@@ -86,4 +86,4 @@ function parseInt(string) {
   }, 0)
 }
 
-export default parseInt
+module.exports = parseInt

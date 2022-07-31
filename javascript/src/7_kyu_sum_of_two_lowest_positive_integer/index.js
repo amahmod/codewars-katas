@@ -31,4 +31,4 @@ function sumTwoSmallestNumbers(numbers) {
     .reduce((a, b) => a + b, 0)
 }
 
-export default sumTwoSmallestNumbers
+module.exports = sumTwoSmallestNumbers

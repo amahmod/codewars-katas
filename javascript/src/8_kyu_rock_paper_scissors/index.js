@@ -33,4 +33,4 @@ const rps = (p1, p2) => {
   return winMap[p1] === p2 ? 'Player 1 won!' : 'Player 2 won!'
 }
 
-export default rps
+module.exports = rps

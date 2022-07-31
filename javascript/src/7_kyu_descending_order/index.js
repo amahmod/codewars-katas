@@ -36,4 +36,4 @@ function descendingOrder(n) {
     .join('')
 }
 
-export default descendingOrder
+module.exports = descendingOrder

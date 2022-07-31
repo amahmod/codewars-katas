@@ -41,4 +41,4 @@ function rentalCarCost(rentalDays) {
   return rentalDays * 40 - discountAmount
 }
 
-export default rentalCarCost
+module.exports = rentalCarCost

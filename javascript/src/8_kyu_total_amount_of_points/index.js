@@ -53,4 +53,4 @@ function points(games) {
 
 // points = games => games.reduce((sum, score) => (sum += [1, 3, 3, 3, 3][score[0] - score[2]] || 0), 0)
 
-export default points
+module.exports = points

@@ -39,4 +39,4 @@ function lovefunc(flower1, flower2) {
  *
  */
 
-export default lovefunc
+module.exports = lovefunc

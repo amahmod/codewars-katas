@@ -36,4 +36,4 @@ function removeSmallest(numbers) {
   return numbers.filter((_, i) => i !== minimumNumberIndex)
 }
 
-export default removeSmallest
+module.exports = removeSmallest
