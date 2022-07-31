@@ -11,6 +11,7 @@
 | Kyu | Name                                                                                                     | Kata Link                                                    |
 | --- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 4   | [Nesting structure comparison](javascript/4_kyu_nesting_structure_comparison.js)                         | [→](https://www.codewars.com/kata/520446778469526ec0000001)  |
+| 4   | [parseInt() reloaded](javascript/4_kyu_parseInt_reloaded.js)                                             | [→](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)  |
 | 6   | [Detect pangram](javascript/6_kyu_detect_pangram.js)                                                     | [→](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)  |
 | 6   | [Count the smiley faces](javascript/6_kyu_count_the_smiley_faces.js)                                     | [→](https://www.codewars.com/kata/583203e6eb35d7980400002a)  |
 | 7   | [Sum of two lowest positive integers](javascript/7_kyu_sum_of_two_lowest_positive_integer.js)            | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
