@@ -35,3 +35,5 @@ function descendingOrder(n) {
     .sort((a, b) => b - a)
     .join('')
 }
+
+export default descendingOrder

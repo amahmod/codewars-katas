@@ -38,3 +38,5 @@ function lovefunc(flower1, flower2) {
  * Return `true` of sum of `flower1` and `flower2` are odd number
  *
  */
+
+export default lovefunc

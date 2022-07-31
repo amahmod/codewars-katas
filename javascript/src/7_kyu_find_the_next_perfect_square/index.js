@@ -30,7 +30,7 @@
  */
 
 function findNextSquare(sq) {
-  const nextSquare = Math.pow(Math.sqrt(sq) + 1, 2)
+  const nextSquare = (Math.sqrt(sq) + 1) ** 2
   return Number.isInteger(nextSquare) ? nextSquare : -1
 }
 
@@ -40,7 +40,9 @@ function findNextSquare(sq) {
 
 // https://www.codewars.com/kata/reviews/564429e7fc3137d3a300009a/groups/56b21455629a6baccb000074
 
-function findNextSquare(sq) {
-  var root = Math.sqrt(sq)
-  return root % 1 === 0 ? Math.pow(root + 1, 2) : -1
-}
+// function findNextSquare(sq) {
+//   var root = Math.sqrt(sq)
+//   return root % 1 === 0 ? Math.pow(root + 1, 2) : -1
+// }
+
+export default findNextSquare

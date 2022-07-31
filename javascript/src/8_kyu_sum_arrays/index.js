@@ -35,5 +35,7 @@
  */
 
 function sum(numbers) {
-  return numbers.reduce((sum, number) => sum + number, 0)
+  return numbers.reduce((resultSum, number) => resultSum + number, 0)
 }
+
+export default sum

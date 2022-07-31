@@ -27,16 +27,18 @@
 
 /**
  *
- * @param {number} rental_days
+ * @param {number} rentalDays
  * @returns {number}
  */
 
-function rentalCarCost(rental_days) {
-  let discount_amount = 0
-  if (rental_days >= 7) {
-    discount_amount += 50
-  } else if (rental_days >= 3) {
-    discount_amount += 20
+function rentalCarCost(rentalDays) {
+  let discountAmount = 0
+  if (rentalDays >= 7) {
+    discountAmount += 50
+  } else if (rentalDays >= 3) {
+    discountAmount += 20
   }
-  return rental_days * 40 - discount_amount
+  return rentalDays * 40 - discountAmount
 }
+
+export default rentalCarCost

@@ -1,3 +1,4 @@
+/* eslint-disable no-param-reassign */
 /**
  * Kata link: https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5
  *
@@ -27,7 +28,7 @@
  * console.log(parseInt('two hundred forty-six'), 246)
  * console.log(parseInt('seven hundred eighty-three thousand nine hundred and nineteen'), 783919)
  * console.log(parseInt('one million'), 1000000)
- * **/
+ * * */
 
 /**
  * Parse string to integer
@@ -65,13 +66,13 @@ function parseInt(string) {
     sixty: 60,
     seventy: 70,
     eighty: 80,
-    ninety: 90,
+    ninety: 90
   }
 
   const multiples = {
     hundred: 100,
     thousand: 1000,
-    million: 1000000,
+    million: 1000000
   }
 
   return string.split(/ |-/).reduce((sum, word) => {
@@ -84,3 +85,5 @@ function parseInt(string) {
     return sum
   }, 0)
 }
+
+export default parseInt

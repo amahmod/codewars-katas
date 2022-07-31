@@ -1,3 +1,4 @@
+/* eslint-disable no-extend-native */
 /**
  * Kata link: https://www.codewars.com/kata/520446778469526ec0000001
  *
@@ -31,17 +32,17 @@
  * console.log([1, [1, 1]].sameStructureAs([[2], 2]), false)
  * console.log([[[], []]].sameStructureAs([[1, 1]]), false)
  * console.log([1, '[', ']'].sameStructureAs(['[', ']', 1]), true)
- **/
+ * */
 
 // this function was defined given in the test environment
-const isArray = Array.isArray
+const { isArray } = Array
 
 /**
  * @param {Array} other
  * @returns {boolean}
  */
 
-Array.prototype.sameStructureAs = function (other) {
+Array.prototype.sameStructureAs = function sameStructureAs(other) {
   if (!isArray(other)) return false
   if (this.length !== other.length) return false
 

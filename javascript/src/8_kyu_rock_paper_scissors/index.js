@@ -25,10 +25,12 @@ const rps = (p1, p2) => {
   const winMap = {
     paper: 'rock',
     rock: 'scissors',
-    scissors: 'paper',
+    scissors: 'paper'
   }
 
   if (p1 === p2) return 'Draw!'
 
   return winMap[p1] === p2 ? 'Player 1 won!' : 'Player 2 won!'
 }
+
+export default rps

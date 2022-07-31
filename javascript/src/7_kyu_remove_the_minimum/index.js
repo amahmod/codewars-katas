@@ -23,7 +23,7 @@
  * console.log(removeSmallest([5, 3, 2, 1, 4]), [5, 3, 2, 4])
  * console.log(removeSmallest([2, 2, 1, 2, 1]), [2, 2, 2, 1])
  *
- **/
+ * */
 
 /**
  *
@@ -32,6 +32,8 @@
  */
 
 function removeSmallest(numbers) {
-  const minimum_number_index = numbers.indexOf(Math.min.apply(null, numbers))
-  return numbers.filter((_, i) => i !== minimum_number_index)
+  const minimumNumberIndex = numbers.indexOf(Math.min.apply(null, numbers))
+  return numbers.filter((_, i) => i !== minimumNumberIndex)
 }
+
+export default removeSmallest

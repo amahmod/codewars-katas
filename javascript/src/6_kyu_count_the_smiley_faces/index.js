@@ -54,7 +54,9 @@ function countSmileys(arr) {
 // Other solutions
 //---------------------------------------
 
-//https://www.codewars.com/kata/reviews/583203efeb35d7980400002c/groups/58320d6db3081b590300017d
+// https://www.codewars.com/kata/reviews/583203efeb35d7980400002c/groups/58320d6db3081b590300017d
 // 50% faster than my solution based on jsbench
 
-countSmileys = ss => ss.reduce((a, s) => a + /^[:;][-~]?[D)]$/.test(s), 0)
+// countSmileys = ss => ss.reduce((a, s) => a + /^[:;][-~]?[D)]$/.test(s), 0)
+
+export default countSmileys

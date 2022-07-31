@@ -37,6 +37,8 @@ function isPangram(string) {
 // https://www.codewars.com/kata/reviews/54a5d4af37f43531e900002e/groups/5745b6ccfd21f034a80016e0
 // 13% faster than my solution based on jsbench
 
-function isPangram(string) {
-  return (string.match(/([a-z])(?!.*\1)/gi) || []).length === 26
-}
+// function isPangram(string) {
+//   return (string.match(/([a-z])(?!.*\1)/gi) || []).length === 26
+// }
+
+export default isPangram

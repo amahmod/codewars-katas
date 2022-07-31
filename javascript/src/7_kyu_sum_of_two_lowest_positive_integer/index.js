@@ -30,3 +30,5 @@ function sumTwoSmallestNumbers(numbers) {
     .slice(0, 2)
     .reduce((a, b) => a + b, 0)
 }
+
+export default sumTwoSmallestNumbers

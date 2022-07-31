@@ -1,3 +1,4 @@
+/* eslint-disable no-param-reassign */
 /**
  * Kata link: https://www.codewars.com/kata/5bb904724c47249b10000131
  *
@@ -39,7 +40,7 @@ function points(games) {
   return games.reduce((sum, score) => {
     if (score[0] > score[2]) {
       sum += 3
-    } else if (score[0] == score[2]) {
+    } else if (score[0] === score[2]) {
       sum += 1
     }
     return sum
@@ -50,5 +51,6 @@ function points(games) {
  * Solution 2  ( One liner, not readable )
  * ---------------------------------------*/
 
-points = games =>
-  games.reduce((sum, score) => (sum += [1, 3, 3, 3, 3][score[0] - score[2]] || 0), 0)
+// points = games => games.reduce((sum, score) => (sum += [1, 3, 3, 3, 3][score[0] - score[2]] || 0), 0)
+
+export default points
