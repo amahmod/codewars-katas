@@ -1,5 +1,6 @@
 const axios = require('axios')
 const fs = require('fs')
+const { addKataToReadme } = require('./update_readme')
 
 function removeHtmlEntities(str) {
   return str.replace(/<\/?("[^"]*"|'[^']*'|[^>])*(>|$)/g, '')
@@ -258,9 +259,17 @@ async function main(url) {
 
   fs.promises
     .mkdir(newDirectoryPath, { recursive: true })
+    .then(async () => {
+      await fs.promises.writeFile(`${newDirectoryPath}/index.js`, codes, 'utf8')
+      await fs.promises.writeFile(`${newDirectoryPath}/index.test.js`, tests, 'utf8')
+    })
     .then(() => {
-      fs.promises.writeFile(`${newDirectoryPath}/index.js`, codes, 'utf8')
-      fs.promises.writeFile(`${newDirectoryPath}/index.test.js`, tests, 'utf8')
+      return addKataToReadme({
+        kyu,
+        kataName: kataDetails.name,
+        kataLink: kataDetails.url,
+        filePath: `${newDirectoryPath}/index.js`
+      })
     })
     .then(() => console.log(`Kata created under ${newDirectoryPath}`))
     .catch(error => console.log(error))
