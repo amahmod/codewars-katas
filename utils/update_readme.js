@@ -49,8 +49,17 @@ async function addKataToReadme({ kyu, kataName, filePath, kataLink }) {
   const tableChunks = content.split('### ')
   const chunks = tableChunks.map(chunk => {
     if (/^javascript/i.test(chunk)) {
-      const tableArr = markdownTableToArray(chunk)
+      let tableArr = markdownTableToArray(chunk)
       tableArr.push([kyu, `[${kataName}](${filePath})`, `[→](${kataLink})`])
+      // sort by kyu
+      tableArr = tableArr.sort((a, b) => {
+        const aInt = parseInt(a, 10)
+        const bInt = parseInt(b, 10)
+        if (aInt && bInt) {
+          return aInt - bInt
+        }
+        return 0
+      })
       const tableMarkdonw = arrayToMdTalbe(tableArr)
       return `Javascript
 
