@@ -32,3 +32,4 @@
 | 8   | [Beginner - Lost Without a Map](javascript/8_beginner_-_lost_without_a_map/index.js)                                   | [→](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)  |
 | 8   | [Well of Ideas - Easy Version](javascript/8_well_of_ideas_-_easy_version/index.js)                                     | [→](https://www.codewars.com/kata/57f222ce69e09c3630000212)  |
 | 8   | [Geometry Basics: Distance between points in 2D](javascript/8_geometry_basics:_distance_between_points_in_2d/index.js) | [→](https://www.codewars.com/kata/58dced7b702b805b200000be)  |
+| 8   | [Calculate BMI](javascript/8_calculate_bmi/index.js)                                                                   | [→](https://www.codewars.com/kata/57a429e253ba3381850000fb)  |
