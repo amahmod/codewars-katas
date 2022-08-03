@@ -30,3 +30,4 @@
 | 8   | [Find the smallest integer in the array](javascript/8_find_the_smallest_integer_in_the_array/index.js)             | [→](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)  |
 | 8   | [Keep Hydrated!](javascript/8_keep_hydrated!/index.js)                                                             | [→](https://www.codewars.com/kata/582cb0224e56e068d800003c)  |
 | 8   | [Beginner - Lost Without a Map](javascript/8_beginner_-_lost_without_a_map/index.js)                               | [→](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)  |
+| 8   | [Well of Ideas - Easy Version](javascript/8_well_of_ideas_-_easy_version/index.js)                                 | [→](https://www.codewars.com/kata/57f222ce69e09c3630000212)  |
