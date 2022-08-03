@@ -27,3 +27,4 @@
 | 8   | [Rock paper scissors](javascript/src/8_kyu_rock_paper_scissors/index.js)                                           | [→](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)  |
 | 8   | [Transportation on vacation](javascript/src/8_kyu_transportation_on_vacation/index.js)                             | [→](https://www.codewars.com/kata/568d0dd208ee69389d000016)  |
 | 8   | [Grasshopper - Summation](javascript/8_grasshopper_-_summation/index.js)                                           | [→](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)  |
+| 8   | [Find the smallest integer in the array](javascript/8_find_the_smallest_integer_in_the_array/index.js)             | [→](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)  |
