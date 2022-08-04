@@ -35,3 +35,4 @@
 | 8   | [Calculate BMI](javascript/8_calculate_bmi/index.js)                                                                   | [→](https://www.codewars.com/kata/57a429e253ba3381850000fb)  |
 | 8   | [Get the mean of an array](javascript/8_get_the_mean_of_an_array/index.js)                                             | [→](https://www.codewars.com/kata/563e320cee5dddcf77000158)  |
 | 8   | [Will you make it?](javascript/8_will_you_make_it?/index.js)                                                           | [→](https://www.codewars.com/kata/5861d28f124b35723e00005e)  |
+| 8   | [Can we divide it?](javascript/8_can_we_divide_it?/index.js)                                                           | [→](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a)  |
