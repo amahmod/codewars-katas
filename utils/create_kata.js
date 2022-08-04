@@ -13,7 +13,9 @@ function removeHtmlEntities(str) {
  * @returns {string|null} function name if found
  */
 function getFunctionName(string) {
-  const match = string.match(/(?:var|let|const)\s+(\w+?)\s*=|(\w+?)\.prototype|function\s+(\w+?)\s*?\(/)
+  const match = string.match(
+    /(?:var|let|const)\s+(\w+?)\s*=|(\w+?)\.prototype|function\s+(\w+?)\s*?\(|class\s+(\w+?)\s/
+  )
   return match?.length > 1 ? match.slice(1).filter(functionName => functionName && functionName.length)[0] : null
 }
 
@@ -201,7 +203,8 @@ const generateCode = ({ title, description, link, initialCode, exportName }) => 
 
   Solutions Link: ${link}/solutions
 
-  Description: ${description}
+  Description:
+  ${description.padStart(description.lengt + 4)}
 
   Examples:
 
