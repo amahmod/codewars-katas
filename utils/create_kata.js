@@ -260,6 +260,11 @@ async function main(url) {
     initialTests: kataCodes.testCodes
   })
 
+  if (fs.existsSync(newDirectoryPath)) {
+    console.error(`${newDirectoryPath} folder already exists!`)
+    return
+  }
+
   fs.promises
     .mkdir(newDirectoryPath, { recursive: true })
     .then(async () => {
