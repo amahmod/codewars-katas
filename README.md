@@ -10,6 +10,7 @@
 
 | Kyu | Name                                                                                                                   | Kata Link                                                    |
 | --- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 3   | [Help the general decode secret enemy messages.](javascript/3_help_the_general_decode_secret_enemy_messages./index.js) | [→](https://www.codewars.com/kata/52cf02cd825aef67070008fa)  |
 | 4   | [Nesting structure comparison](javascript/src/4_kyu_nesting_structure_comparison/index.js)                             | [→](https://www.codewars.com/kata/520446778469526ec0000001)  |
 | 4   | [parseInt() reloaded](javascript/src/4_kyu_parseInt_reloaded/index.js)                                                 | [→](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)  |
 | 4   | [Sum of Intervals](javascript/4_sum_of_intervals/index.js)                                                             | [→](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)  |
