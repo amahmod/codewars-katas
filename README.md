@@ -21,6 +21,7 @@
 | 6   | [Stop gninnipS My sdroW!](javascript/6_stop_gninnips_my_sdrow!/index.js)                                               | [→](https://www.codewars.com/kata/5264d2b162488dc400000001)  |
 | 6   | [Sum of Digits / Digital Root](javascript/6_sum_of_digits___digital_root/index.js)                                     | [→](https://www.codewars.com/kata/541c8630095125aba6000c00)  |
 | 6   | [Create Phone Number](javascript/6_create_phone_number/index.js)                                                       | [→](https://www.codewars.com/kata/525f50e3b73515a6db000b83)  |
+| 6   | [Find The Parity Outlier](javascript/6_find_the_parity_outlier/index.js)                                               | [→](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)  |
 | 7   | [Sum of two lowest positive integers](javascript/src/7_kyu_sum_of_two_lowest_positive_integer/index.js)                | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/src/7_kyu_find_the_next_perfect_square/index.js)                             | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/src/7_kyu_descending_order/index.js)                                                     | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
