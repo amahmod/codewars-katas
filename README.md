@@ -14,6 +14,7 @@
 | 4   | [Nesting structure comparison](javascript/src/4_kyu_nesting_structure_comparison/index.js)                             | [→](https://www.codewars.com/kata/520446778469526ec0000001)  |
 | 4   | [parseInt() reloaded](javascript/src/4_kyu_parseInt_reloaded/index.js)                                                 | [→](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)  |
 | 4   | [Sum of Intervals](javascript/4_sum_of_intervals/index.js)                                                             | [→](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)  |
+| 5   | [Poker cards encoder/decoder](javascript/5_poker_cards_encoder_decoder/index.js)                                       | [→](https://www.codewars.com/kata/52ebe4608567ade7d700044a)  |
 | 6   | [Detect pangram](javascript/src/6_kyu_detect_pangram/index.js)                                                         | [→](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)  |
 | 6   | [Count the smiley faces](javascript/src/6_kyu_count_the_smiley_faces/index.js)                                         | [→](https://www.codewars.com/kata/583203e6eb35d7980400002a)  |
 | 7   | [Sum of two lowest positive integers](javascript/src/7_kyu_sum_of_two_lowest_positive_integer/index.js)                | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
