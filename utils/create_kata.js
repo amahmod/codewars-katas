@@ -245,7 +245,7 @@ async function main(url) {
 
   const kyu = kataDetails.rank.name.split(' ')[0]
   const exportName = getFunctionName(kataCodes.setup)
-  const newDirectoryPath = `javascript/${kyu}_${kataDetails.name.toLowerCase().replace(/\s+/g, '_')}`
+  const newDirectoryPath = `javascript/${kyu}_${kataDetails.name.toLowerCase().replace(/\s+|\//g, '_')}`
 
   const codes = generateCode({
     title: kataDetails.name,
