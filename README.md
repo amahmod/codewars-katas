@@ -17,6 +17,7 @@
 | 5   | [Poker cards encoder/decoder](javascript/5_poker_cards_encoder_decoder/index.js)                                       | [→](https://www.codewars.com/kata/52ebe4608567ade7d700044a)  |
 | 6   | [Detect pangram](javascript/src/6_kyu_detect_pangram/index.js)                                                         | [→](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)  |
 | 6   | [Count the smiley faces](javascript/src/6_kyu_count_the_smiley_faces/index.js)                                         | [→](https://www.codewars.com/kata/583203e6eb35d7980400002a)  |
+| 6   | [Multiples of 3 or 5](javascript/6_multiples_of_3_or_5/index.js)                                                       | [→](https://www.codewars.com/kata/514b92a657cdc65150000006)  |
 | 7   | [Sum of two lowest positive integers](javascript/src/7_kyu_sum_of_two_lowest_positive_integer/index.js)                | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/src/7_kyu_find_the_next_perfect_square/index.js)                             | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/src/7_kyu_descending_order/index.js)                                                     | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
