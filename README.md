@@ -25,6 +25,7 @@
 | 7   | [Find the next perfect square](javascript/src/7_kyu_find_the_next_perfect_square/index.js)                             | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/src/7_kyu_descending_order/index.js)                                                     | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
 | 7   | [Remove the minimum](javascript/src/7_kyu_remove_the_minimum/index.js)                                                 | [→](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)  |
+| 7   | [Mumbling](javascript/7_mumbling/index.js)                                                                             | [→](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)  |
 | 8   | [DNA to RNA Conversion](javascript/src/8_kyu_dna_to_rna_conversion/index.js)                                           | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/src/8_kyu_find_maximum_and_minimum_values_of_list/index.js)     | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/src/8_kyu_invert_values/index.js)                                                           | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
