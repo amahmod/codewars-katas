@@ -26,6 +26,7 @@
 | 6   | [Find The Parity Outlier](javascript/6_find_the_parity_outlier/index.js)                                               | [→](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)  |
 | 6   | [Persistent Bugger.](javascript/6_persistent_bugger./index.js)                                                         | [→](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)  |
 | 6   | [Replace With Alphabet Position](javascript/6_replace_with_alphabet_position/index.js)                                 | [→](https://www.codewars.com/kata/546f922b54af40e1e90001da)  |
+| 6   | [Tribonacci Sequence](javascript/6_tribonacci_sequence/index.js)                                                       | [→](https://www.codewars.com/kata/556deca17c58da83c00002db)  |
 | 7   | [Sum of two lowest positive integers](javascript/src/7_kyu_sum_of_two_lowest_positive_integer/index.js)                | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/src/7_kyu_find_the_next_perfect_square/index.js)                             | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/src/7_kyu_descending_order/index.js)                                                     | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
