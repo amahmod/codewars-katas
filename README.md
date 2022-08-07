@@ -15,6 +15,7 @@
 | 4   | [parseInt() reloaded](javascript/src/4_kyu_parseInt_reloaded/index.js)                                                 | [→](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)  |
 | 4   | [Sum of Intervals](javascript/4_sum_of_intervals/index.js)                                                             | [→](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)  |
 | 4   | [Human readable duration format](javascript/4_human_readable_duration_format/index.js)                                 | [→](https://www.codewars.com/kata/52742f58faf5485cae000b9a)  |
+| 4   | [Range Extraction](javascript/4_range_extraction/index.js)                                                             | [→](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)  |
 | 5   | [Poker cards encoder/decoder](javascript/5_poker_cards_encoder_decoder/index.js)                                       | [→](https://www.codewars.com/kata/52ebe4608567ade7d700044a)  |
 | 6   | [Detect pangram](javascript/src/6_kyu_detect_pangram/index.js)                                                         | [→](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)  |
 | 6   | [Count the smiley faces](javascript/src/6_kyu_count_the_smiley_faces/index.js)                                         | [→](https://www.codewars.com/kata/583203e6eb35d7980400002a)  |
