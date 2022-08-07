@@ -31,6 +31,7 @@
 | 6   | [Playing with digits](javascript/6_playing_with_digits/index.js)                                                       | [→](https://www.codewars.com/kata/5552101f47fc5178b1000050)  |
 | 6   | [Convert string to camel case](javascript/6_convert_string_to_camel_case/index.js)                                     | [→](https://www.codewars.com/kata/517abf86da9663f1d2000003)  |
 | 6   | [Equal Sides Of An Array](javascript/6_equal_sides_of_an_array/index.js)                                               | [→](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)  |
+| 6   | [Does my number look big in this?](javascript/6_kyu_does_my_number_look_big_in_this_/index.js)                         | [→](https://www.codewars.com/kata/5287e858c6b5a9678200083c)  |
 | 7   | [Sum of two lowest positive integers](javascript/7_kyu_sum_of_two_lowest_positive_integer/index.js)                    | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/7_kyu_find_the_next_perfect_square/index.js)                                 | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/7_kyu_descending_order/index.js)                                                         | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
