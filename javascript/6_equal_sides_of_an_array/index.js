@@ -61,6 +61,4 @@ function findEvenIndex(arr) {
   return -1
 }
 
-// assert.strictEqual(findEvenIndex([1, 100, 50, -51, 1, 1]), 1, 'The array was: [1,100,50,-51,1,1] \n')
-
 module.exports = findEvenIndex
