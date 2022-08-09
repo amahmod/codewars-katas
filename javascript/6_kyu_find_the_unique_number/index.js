@@ -57,4 +57,21 @@ function findUniq(arr) {
   return null
 }
 
+/**
+
+Best solution
+
+function findUniq(arr) {
+  const [a, b, c] = arr.slice(0, 3)
+  if (a !== b && a !== c) return a
+
+  for (let i = 0, len = arr.length; i < len; i += 1) {
+    if (arr[i] !== a) return arr[i]
+  }
+
+  return null
+}
+
+*/
+
 module.exports = findUniq
