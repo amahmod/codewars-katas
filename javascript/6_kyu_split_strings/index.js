@@ -1,0 +1,35 @@
+/*
+  Title: Split Strings
+
+  Kata Link: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+
+  Discuss Link: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/discuss
+
+  Solutions Link: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/solutions
+
+  Description:
+  Complete the solution so that it splits the string into pairs of two characters.  If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
+
+Examples:
+```
+* 'abc' =>  ['ab', 'c_']
+* 'abcdef' => ['ab', 'cd', 'ef']
+```
+
+
+  Examples:
+
+  Notes:
+*
+*/
+
+/**
+ *
+ *
+ * @param {string} str
+ */
+function solution(str) {
+  return `${str}_`.match(/\w{2}/g) || []
+}
+
+module.exports = solution

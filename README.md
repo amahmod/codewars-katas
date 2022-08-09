@@ -36,6 +36,7 @@
 | 6   | [Decode the Morse code ](javascript/6_kyu_decode_the_morse_code_/index.js)                                             | [→](https://www.codewars.com/kata/54b724efac3d5402db00065e)  |
 | 6   | [Find the unique number](javascript/6_kyu_find_the_unique_number/index.js)                                             | [→](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)  |
 | 6   | [Find the missing letter](javascript/6_kyu_find_the_missing_letter/index.js)                                           | [→](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)  |
+| 6   | [Split Strings](javascript/6_kyu_split_strings/index.js)                                                               | [→](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)  |
 | 7   | [Sum of two lowest positive integers](javascript/7_kyu_sum_of_two_lowest_positive_integer/index.js)                    | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/7_kyu_find_the_next_perfect_square/index.js)                                 | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/7_kyu_descending_order/index.js)                                                         | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
