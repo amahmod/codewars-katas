@@ -39,6 +39,7 @@
 | 6   | [Split Strings](javascript/6_kyu_split_strings/index.js)                                                               | [→](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)  |
 | 6   | [Build Tower](javascript/6_kyu_build_tower/index.js)                                                                   | [→](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)  |
 | 6   | [Build a pile of Cubes](javascript/6_kyu_build_a_pile_of_cubes/index.js)                                               | [→](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)  |
+| 6   | [Are they the "same"?](javascript/6_kyu_are_they_the_same/index.js)                                                    | [→](https://www.codewars.com/kata/550498447451fbbd7600041c)  |
 | 7   | [Sum of two lowest positive integers](javascript/7_kyu_sum_of_two_lowest_positive_integer/index.js)                    | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/7_kyu_find_the_next_perfect_square/index.js)                                 | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/7_kyu_descending_order/index.js)                                                         | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
