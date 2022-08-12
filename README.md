@@ -49,6 +49,7 @@
 | 7   | [Get the Middle Character](javascript/7_get_the_middle_character/index.js)                                             | [→](https://www.codewars.com/kata/56747fd5cb988479af000028)  |
 | 7   | [You're a square!](javascript/7_you're_a_square!/index.js)                                                             | [→](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)  |
 | 7   | [Make a function that does arithmetic!](javascript/7_kyu_make_a_function_that_does_arithmetic!/index.js)               | [→](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)  |
+| 7   | [Friend or Foe?](javascript/7_kyu_friend_or_foe_/index.js)                                                             | [→](https://www.codewars.com/kata/55b42574ff091733d900002f)  |
 | 8   | [DNA to RNA Conversion](javascript/8_kyu_dna_to_rna_conversion/index.js)                                               | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/8_kyu_find_maximum_and_minimum_values_of_list/index.js)         | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/8_kyu_invert_values/index.js)                                                               | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
