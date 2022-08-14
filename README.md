@@ -18,6 +18,7 @@
 | 4   | [Range Extraction](javascript/4_range_extraction/index.js)                                                             | [→](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)  |
 | 5   | [Poker cards encoder/decoder](javascript/5_poker_cards_encoder_decoder/index.js)                                       | [→](https://www.codewars.com/kata/52ebe4608567ade7d700044a)  |
 | 5   | [Find the unique string](javascript/5_kyu_find_the_unique_string/index.js)                                             | [→](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)  |
+| 5   | [Maximum subarray sum](javascript/5_kyu_maximum_subarray_sum/index.js)                                                 | [→](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)  |
 | 6   | [Detect pangram](javascript/6_kyu_detect_pangram/index.js)                                                             | [→](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)  |
 | 6   | [Count the smiley faces](javascript/6_kyu_count_the_smiley_faces/index.js)                                             | [→](https://www.codewars.com/kata/583203e6eb35d7980400002a)  |
 | 6   | [Multiples of 3 or 5](javascript/6_multiples_of_3_or_5/index.js)                                                       | [→](https://www.codewars.com/kata/514b92a657cdc65150000006)  |
