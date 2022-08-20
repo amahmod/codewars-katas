@@ -75,3 +75,4 @@
 | 8   | [Will you make it?](javascript/8_will_you_make_it/index.js)                                                            | [→](https://www.codewars.com/kata/5861d28f124b35723e00005e)  |
 | 8   | [Can we divide it?](javascript/8_can_we_divide_it/index.js)                                                            | [→](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a)  |
 | 8   | [Cat years, Dog years](javascript/8_kyu_cat_years,_dog_years/index.js)                                                 | [→](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)  |
+| 8   | [Find Multiples of a Number](javascript/8_kyu_find_multiples_of_a_number/index.js)                                     | [→](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)  |
