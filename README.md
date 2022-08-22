@@ -57,6 +57,7 @@
 | 7   | [Isograms](javascript/7_kyu_isograms/index.js)                                                                         | [→](https://www.codewars.com/kata/54ba84be607a92aa900000f1)  |
 | 7   | [Beginner Series #3 Sum of Numbers](javascript/7_kyu_beginner_series_#3_sum_of_numbers/index.js)                       | [→](https://www.codewars.com/kata/55f2b110f61eb01779000053)  |
 | 7   | [Growth of a Population](javascript/7_kyu_growth_of_a_population/index.js)                                             | [→](https://www.codewars.com/kata/563b662a59afc2b5120000c6)  |
+| 7   | [Anagram Detection](javascript/7_kyu_anagram_detection/index.js)                                                       | [→](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)  |
 | 8   | [DNA to RNA Conversion](javascript/8_kyu_dna_to_rna_conversion/index.js)                                               | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/8_kyu_find_maximum_and_minimum_values_of_list/index.js)         | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/8_kyu_invert_values/index.js)                                                               | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
