@@ -61,6 +61,7 @@
 | 7   | [Anagram Detection](javascript/7_kyu_anagram_detection/index.js)                                                       | [→](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)  |
 | 7   | [Summing a number's digits](javascript/7_kyu_summing_a_number's_digits/index.js)                                       | [→](https://www.codewars.com/kata/52f3149496de55aded000410)  |
 | 7   | [Find the capitals](javascript/7_kyu_find_the_capitals/index.js)                                                       | [→](https://www.codewars.com/kata/539ee3b6757843632d00026b)  |
+| 7   | [Testing 1-2-3](javascript/7_kyu_testing_1-2-3/index.js)                                                               | [→](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)  |
 | 8   | [DNA to RNA Conversion](javascript/8_kyu_dna_to_rna_conversion/index.js)                                               | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/8_kyu_find_maximum_and_minimum_values_of_list/index.js)         | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/8_kyu_invert_values/index.js)                                                               | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
