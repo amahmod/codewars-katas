@@ -66,6 +66,7 @@
 | 7   | [Testing 1-2-3](javascript/7_kyu_testing_1-2-3/index.js)                                                               | [→](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)  |
 | 7   | [Form The Minimum](javascript/7_kyu_form_the_minimum/index.js)                                                         | [→](https://www.codewars.com/kata/5ac6932b2f317b96980000ca)  |
 | 7   | [Jaden Casing Strings](javascript/7_kyu_jaden_casing_strings/index.js)                                                 | [→](https://www.codewars.com/kata/5390bac347d09b7da40006f6)  |
+| 7   | [Printer Errors](javascript/7_kyu_printer_errors/index.js)                                                             | [→](https://www.codewars.com/kata/56541980fa08ab47a0000040)  |
 | 8   | [DNA to RNA Conversion](javascript/8_kyu_dna_to_rna_conversion/index.js)                                               | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/8_kyu_find_maximum_and_minimum_values_of_list/index.js)         | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/8_kyu_invert_values/index.js)                                                               | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
