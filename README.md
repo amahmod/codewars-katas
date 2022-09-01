@@ -48,6 +48,7 @@
 | 6   | [Title Case](javascript/6_kyu_title_case/index.js)                                                                     | [→](https://www.codewars.com/kata/5202ef17a402dd033c000009)  |
 | 6   | [Mexican Wave](javascript/6_kyu_mexican_wave/index.js)                                                                 | [→](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)  |
 | 6   | [Reverse or rotate?](javascript/6_kyu_reverse_or_rotate_/index.js)                                                     | [→](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)  |
+| 6   | [Tortoise racing](javascript/6_kyu_tortoise_racing/index.js)                                                           | [→](https://www.codewars.com/kata/55e2adece53b4cdcb900006c)  |
 | 7   | [Sum of two lowest positive integers](javascript/7_kyu_sum_of_two_lowest_positive_integer/index.js)                    | [→](https://www.codewars.com/kata/558fc85d8fd1938afb000014)  |
 | 7   | [Find the next perfect square](javascript/7_kyu_find_the_next_perfect_square/index.js)                                 | [→](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)  |
 | 7   | [Descending Order](javascript/7_kyu_descending_order/index.js)                                                         | [→](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)  |
