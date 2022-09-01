@@ -90,3 +90,4 @@
 | 8   | [Find Multiples of a Number](javascript/8_kyu_find_multiples_of_a_number/index.js)                                                               | [→](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)  |
 | 8   | [My head is at the wrong end!](javascript/8_kyu_my_head_is_at_the_wrong_end!/index.js)                                                           | [→](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)  |
 | 8   | [I love you, a little , a lot, passionately ... not at all](javascript/8_kyu_i_love_you,_a_little_,_a_lot,_passionately_..._not_at_all/index.js) | [→](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)  |
+| 8   | [Find the position!](javascript/8_kyu_find_the_position!/index.js)                                                                               | [→](https://www.codewars.com/kata/5808e2006b65bff35500008f)  |
