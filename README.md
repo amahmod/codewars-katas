@@ -22,6 +22,7 @@
 | 5   | [Rot13](javascript/5_kyu_rot13/index.js)                                                                                                         | [→](https://www.codewars.com/kata/530e15517bc88ac656000716)  |
 | 5   | [String incrementer](javascript/5_kyu_string_incrementer/index.js)                                                                               | [→](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)  |
 | 5   | [Directions Reduction](javascript/5_kyu_directions_reduction/index.js)                                                                           | [→](https://www.codewars.com/kata/550f22f4d758534c1100025a)  |
+| 5   | [Primes in numbers](javascript/5_kyu_primes_in_numbers/index.js)                                                                                 | [→](https://www.codewars.com/kata/54d512e62a5e54c96200019e)  |
 | 6   | [Detect pangram](javascript/6_kyu_detect_pangram/index.js)                                                                                       | [→](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)  |
 | 6   | [Count the smiley faces](javascript/6_kyu_count_the_smiley_faces/index.js)                                                                       | [→](https://www.codewars.com/kata/583203e6eb35d7980400002a)  |
 | 6   | [Multiples of 3 or 5](javascript/6_multiples_of_3_or_5/index.js)                                                                                 | [→](https://www.codewars.com/kata/514b92a657cdc65150000006)  |
@@ -70,6 +71,7 @@
 | 7   | [Printer Errors](javascript/7_kyu_printer_errors/index.js)                                                                                       | [→](https://www.codewars.com/kata/56541980fa08ab47a0000040)  |
 | 7   | [Sum of a sequence](javascript/7_kyu_sum_of_a_sequence/index.js)                                                                                 | [→](https://www.codewars.com/kata/586f6741c66d18c22800010a)  |
 | 7   | [Alternate capitalization](javascript/7_kyu_alternate_capitalization/index.js)                                                                   | [→](https://www.codewars.com/kata/59cfc000aeb2844d16000075)  |
+| 7   | [Count the divisors of a number](javascript/7_kyu_count_the_divisors_of_a_number/index.js)                                                       | [→](https://www.codewars.com/kata/542c0f198e077084c0000c2e)  |
 | 8   | [DNA to RNA Conversion](javascript/8_kyu_dna_to_rna_conversion/index.js)                                                                         | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/8_kyu_find_maximum_and_minimum_values_of_list/index.js)                                   | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/8_kyu_invert_values/index.js)                                                                                         | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
