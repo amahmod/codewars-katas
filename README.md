@@ -72,6 +72,7 @@
 | 7   | [Sum of a sequence](javascript/7_kyu_sum_of_a_sequence/index.js)                                                                                 | [→](https://www.codewars.com/kata/586f6741c66d18c22800010a)  |
 | 7   | [Alternate capitalization](javascript/7_kyu_alternate_capitalization/index.js)                                                                   | [→](https://www.codewars.com/kata/59cfc000aeb2844d16000075)  |
 | 7   | [Count the divisors of a number](javascript/7_kyu_count_the_divisors_of_a_number/index.js)                                                       | [→](https://www.codewars.com/kata/542c0f198e077084c0000c2e)  |
+| 7   | [Maximum Length Difference](javascript/7_kyu_maximum_length_difference/index.js)                                                                 | [→](https://www.codewars.com/kata/5663f5305102699bad000056)  |
 | 8   | [DNA to RNA Conversion](javascript/8_kyu_dna_to_rna_conversion/index.js)                                                                         | [→](https://www.codewars.com/kata/5556282156230d0e5e000089/) |
 | 8   | [Find Maximum and Minimum Values of a List](javascript/8_kyu_find_maximum_and_minimum_values_of_list/index.js)                                   | [→](https://www.codewars.com/kata/577a98a6ae28071780000989)  |
 | 8   | [Invert values](javascript/8_kyu_invert_values/index.js)                                                                                         | [→](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)  |
