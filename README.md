@@ -98,3 +98,4 @@
 | 8   | [I love you, a little , a lot, passionately ... not at all](javascript/8_kyu_i_love_you,_a_little_,_a_lot,_passionately_..._not_at_all/index.js) | [→](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)  |
 | 8   | [Find the position!](javascript/8_kyu_find_the_position!/index.js)                                                                               | [→](https://www.codewars.com/kata/5808e2006b65bff35500008f)  |
 | 8   | [Multiplication table for number](javascript/8_kyu_multiplication_table_for_number/index.js)                                                     | [→](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)  |
+| 8   | [Remove duplicates from list](javascript/8_kyu_remove_duplicates_from_list/index.js)                                                             | [→](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)  |
