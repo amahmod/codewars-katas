@@ -99,3 +99,4 @@
 | 8   | [Find the position!](javascript/8_kyu_find_the_position!/index.js)                                                                               | [→](https://www.codewars.com/kata/5808e2006b65bff35500008f)  |
 | 8   | [Multiplication table for number](javascript/8_kyu_multiplication_table_for_number/index.js)                                                     | [→](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)  |
 | 8   | [Remove duplicates from list](javascript/8_kyu_remove_duplicates_from_list/index.js)                                                             | [→](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)  |
+| 8   | [Third Angle of a Triangle](javascript/8_kyu_third_angle_of_a_triangle/index.js)                                                                 | [→](https://www.codewars.com/kata/5a023c426975981341000014)  |
