@@ -108,3 +108,4 @@ Test new kata: `pn test:watch`
 | 8   | [Multiplication table for number](javascript/8_kyu_multiplication_table_for_number/index.js)                                                     | [→](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)  |
 | 8   | [Remove duplicates from list](javascript/8_kyu_remove_duplicates_from_list/index.js)                                                             | [→](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)  |
 | 8   | [Third Angle of a Triangle](javascript/8_kyu_third_angle_of_a_triangle/index.js)                                                                 | [→](https://www.codewars.com/kata/5a023c426975981341000014)  |
+| 8   | [Count the number of cubes with paint on](javascript/8_kyu_count_the_number_of_cubes_with_paint_on/index.js)                                     | [→](https://www.codewars.com/kata/5763bb0af716cad8fb000580)  |
