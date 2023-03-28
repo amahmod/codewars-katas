@@ -6,6 +6,14 @@
 
 </div>
 
+<hr>
+
+### Usage
+
+Create new kata: `pn create-kata <kata-url>`<br>
+Test all katas: `pn test`<br>
+Test new kata: `pn test:watch`
+
 ### Javascript
 
 | Kyu | Name                                                                                                                                             | Kata Link                                                    |
